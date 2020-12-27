@@ -41,7 +41,7 @@ def main():
     app_mode = st.sidebar.selectbox("Choose the app mode",
                                     ["Show instructions", "Investigate dataset", "Run models", "Show the source code"])
     if app_mode == "Show instructions":
-        st.markdown(get_file_content_as_string('readme.md'))
+        st.markdown(get_file_content_as_string('introduction.md'))
         st.sidebar.success('To continue select "Run the app".')
     elif app_mode == "Show the source code":
         st.code(read_file(__file__))
