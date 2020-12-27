@@ -1,0 +1,4 @@
+outs:
+- md5: 50599c7566e041146e13d3d79445826c
+  size: 26769
+  path: linear_model.data

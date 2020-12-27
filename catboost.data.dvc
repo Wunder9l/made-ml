@@ -1,0 +1,4 @@
+outs:
+- md5: 3f9759e33cf00035ce0ac808032d0603
+  size: 501545
+  path: catboost.data

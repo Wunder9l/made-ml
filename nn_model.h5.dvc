@@ -1,0 +1,4 @@
+outs:
+- md5: 296d0b7568acf6eeb2eb83c96625a525
+  size: 21878848
+  path: nn_model.h5
